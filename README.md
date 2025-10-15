@@ -3,6 +3,8 @@ Vibe Coding Codebuff - AI 驅動的程式碼助手，使用自然語言編輯和
 
 ![codebuff-vs-claude-code](./images/codebuff-vs-claude-code.png)
 
+[View in English](./README_EN.md)
+
 # 安裝
 Node.js 20
 ```bash
